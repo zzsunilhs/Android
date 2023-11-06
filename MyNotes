@@ -1,0 +1,152 @@
+06.11.23
+
+Android RoadMap
+----------------
+
+1. Pick a Language
+
+	   - Kotlin
+	   - Java
+
+2. The Fundamentals
+
+	   - Development IDE
+	   - Basics of Kotlin
+	   - Basics of OOP
+	   - DataStructures and Algorithms
+	   - What is and how to use Gradle?
+	   - Create a basic Hello World App
+
+3. Version Control Systems
+
+       - Git
+	   - GitHub
+	   - BitBucket
+	   - GitLab
+
+4. App Components
+
+       - Activity
+	        - Activity Lifecycle
+			- State Changes
+			- Tasks and Backstack
+	   - Services
+	   - Content Provider
+	   - Broadcast Receiver
+	   - Intent
+	        - Implicit Intents
+			- Explicit Intents
+			- Intent Filters
+
+5. Interface and Navigation
+
+		- Layouts
+		    - Frame
+			- Linear
+			- Relative
+			- Constraint
+			- RecycleView
+		- Elements
+			- TextView
+			- Fragments
+			- EditText
+			- Dialogs
+			- Buttons
+			- Toast
+			- ImageView
+			- Bottom Sheet
+			- ListView
+			- Drawer
+			- Tabs
+			- Animations
+		- Jetpack Compose
+            - App Shortcuts
+			- Navigation Components
+
+6. Architecture and Design Patterns
+
+        - MVC
+		- MVP
+		- MVVM
+		- MVI
+		- Repository Pattern
+		- Builder Pattern
+		- Observer Pattern
+		   - LiveData
+		   - RxKotlin
+		   - RxJava
+		   - Flow
+		- Dependency Injection
+		    - Dagger
+			- Hilt
+			- Koin
+			- Kodein
+		- Factory Pattern
+
+7. Storage
+
+	   - Shared Preferences
+	   - DataStore
+	   - Room Database
+	   - File System
+
+8. Network
+
+	   - Retrofit
+	   - OkHttp
+	   - Apollo-Android
+
+9. Asynchronism
+
+       - Coroutines
+       - Threads
+       - RxJava
+       - RxKotlin
+       - WorkManager
+
+10. Common Services
+
+       - Firebase
+	      - FireStore
+		  - Cloud Messaging
+		  - Remote Config
+		  - Crashlytics
+		  - Authentication
+	   - Google AdMob
+       - Google Play Services
+       - Google Maps
+
+11. Linting
+
+         - Ktlint
+		 - Detekt
+
+12. Debugging
+
+         - Timber
+		 - Timber
+		 - Chucker
+		 - Jetpack Benchmark
+
+13. Testing
+
+		  - JUnit
+		  - Espresso
+
+14. Distribution
+
+          - Google Playstore
+          - Firebase Distribution
+          - Signed APK
+
+
+Android Studio Shortcutkeys
+----------------------------
+RUN -> ctrl + shift + F10
+
+
+GIT Android
+------------
+
+
+
